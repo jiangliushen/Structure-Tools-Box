@@ -1,0 +1,14 @@
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\bin\Debug\Structure Tools Box.exe.config
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\bin\Debug\Structure Tools Box.exe
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\bin\Debug\Structure Tools Box.pdb
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\bin\Debug\Aspose.Cells.dll
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure Tools Box.csprojAssemblyReference.cache
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure_Tools_Box.MainForm.resources
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure_Tools_Box.MergeForm.resources
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure_Tools_Box.Properties.Resources.resources
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure Tools Box.csproj.GenerateResource.cache
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure Tools Box.csproj.CoreCompileInputs.cache
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure Tools Box.csproj.CopyComplete
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure Tools Box.exe
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure Tools Box.pdb
+F:\VisualStudioWorkspace\Structure Tools Box\Structure Tools Box\obj\Debug\Structure_Tools_Box.ParentCountForm.resources
